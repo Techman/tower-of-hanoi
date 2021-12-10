@@ -1,0 +1,4 @@
+# Ignore C output
+hanoi
+*.out
+*.exe
